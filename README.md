@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Discord](https://discord.c99.nl/widget/theme-2/700057705951395921.png)</br>  
+![Discord](https://discord.c99.nl/widget/theme-2/596751548877373440.png)</br>  
 Hey there, I'm Miguel! I'm a Full Stack, Front & Backend developer, specializing in Discord Bots to do with User & Guild Security and Protection.
 <br></br>
 
